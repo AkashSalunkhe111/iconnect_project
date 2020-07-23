@@ -1,0 +1,22 @@
+{
+  "UK": {
+    "mask": {
+      "count": 100,
+      "price": 65
+    },
+    "glows": {
+      "count": 100,
+      "price": 100
+    }
+  },
+  "Germany": {
+    "mask": {
+      "count": 100,
+      "price": 100
+    },
+    "glows": {
+      "count": 50,
+      "price": 150
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "interview-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkashSalunkhe111/iconnect_project.git"
+  },
+  "author": "Akash Salunkhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkashSalunkhe111/iconnect_project/issues"
+  },
+  "homepage": "https://github.com/AkashSalunkhe111/iconnect_project#readme",
+  "dependencies": {}
+}
